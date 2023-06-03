@@ -8,7 +8,8 @@ class Program
          Zad_2.ObliczObwodKola();
          Zad_3.ObliczBMI();
         Zad_4.ObliczUlamek();
-        Zad_5.WypiszWiekszaLiczbe();*/
-        Zad_6.SprawdzTrojkatRownoboczny();
+        Zad_5.WypiszWiekszaLiczbe();
+        Zad_6.SprawdzTrojkatRownoboczny();*/
+        Zad_7.SprawdzPunktWKole();
     }
 }
