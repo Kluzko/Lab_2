@@ -1,8 +1,8 @@
 ﻿using System;
 
-class Program
+class Zad_1
 {
-    static void Main()
+    public static void ObliczSredniaArytmetyczna()
     {
         Console.WriteLine("Podaj trzy liczby:");
 
@@ -18,7 +18,5 @@ class Program
         double srednia = (liczba1 + liczba2 + liczba3) / 3;
 
         Console.WriteLine("Średnia arytmetyczna wynosi: " + srednia);
-
-        Console.ReadLine();
     }
 }
