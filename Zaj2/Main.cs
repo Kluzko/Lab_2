@@ -9,7 +9,8 @@ class Program
          Zad_3.ObliczBMI();
         Zad_4.ObliczUlamek();
         Zad_5.WypiszWiekszaLiczbe();
-        Zad_6.SprawdzTrojkatRownoboczny();*/
-        Zad_7.SprawdzPunktWKole();
+        Zad_6.SprawdzTrojkatRownoboczny();
+        Zad_7.SprawdzPunktWKole();*/
+        Zad_8.Kalkulator();
     }
 }
