@@ -11,7 +11,9 @@ class Program
         Zad_5.WypiszWiekszaLiczbe();
         Zad_6.SprawdzTrojkatRownoboczny();
         Zad_7.SprawdzPunktWKole();
-        Zad_8.Kalkulator();*/
+        Zad_8.Kalkulator();
         Zad_9.WypiszZamianeMiejscami();
+        Zad_10.WypiszWynik();*/
+        Zad_11.WypiszWartosc();
     }
 }
